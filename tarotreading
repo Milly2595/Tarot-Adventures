@@ -523,5 +523,26 @@
     "suit": "Swords",
     "interpretation_up": "Encourages exploring new ideas and intellectual pursuits.",
     "interpretation_reversed": "Warns of impulsiveness, gossip, or lack of focus."
+  },
+  "Knight of Swords": {
+    "description": "Knight of Swords represents ambition, action, and determination.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Swords",
+    "interpretation_up": "Highlights rapid progress and pursuit of goals with focus.",
+    "interpretation_reversed": "Points to haste, recklessness, or lack of strategy."
+  },
+  "Queen of Swords": {
+    "description": "Queen of Swords symbolizes intelligence, independence, and perceptive clarity.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Swords",
+    "interpretation_up": "Encourages clear communication, honesty, and strong boundaries.",
+    "interpretation_reversed": "Warns of coldness, cynicism, or being overly critical."
+  },
+  "King of Swords": {
+    "description": "King of Swords represents authority, logic, and intellectual power.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Swords",
+    "interpretation_up": "Reflects wise leadership, strategic decision-making, and integrity.",
+    "interpretation_reversed": "Highlights misuse of power, manipulation, or rigid thinking."
   }
 }
