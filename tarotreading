@@ -1,1 +1,527 @@
-Boop
+{
+  "The Fool": {
+    "description": "The Fool represents new beginnings, innocence, and the courage to take a leap of faith.",
+    "type_of_card": "Major Arcana",
+    "suit": null,
+    "interpretation_up": "Represents optimism, a fresh start, and trusting in the journey ahead.",
+    "interpretation_reversed": "Warns of carelessness, poor planning, or fear of embracing change."
+  },
+  "The Magician": {
+    "description": "The Magician symbolizes personal power, skill, and the ability to manifest your desires.",
+    "type_of_card": "Major Arcana",
+    "suit": null,
+    "interpretation_up": "Signifies resourcefulness, inspired action, and turning dreams into reality.",
+    "interpretation_reversed": "Indicates manipulation, illusion, or untapped potential."
+  },
+  "The High Priestess": {
+    "description": "The High Priestess embodies intuition, mystery, and the subconscious mind.",
+    "type_of_card": "Major Arcana",
+    "suit": null,
+    "interpretation_up": "Encourages inner reflection, trusting your intuition, and seeking hidden truths.",
+    "interpretation_reversed": "Highlights secrets, hidden motives, or a lack of self-awareness."
+  },
+  "The Empress": {
+    "description": "The Empress represents abundance, nurturing, and the creative forces of life.",
+    "type_of_card": "Major Arcana",
+    "suit": null,
+    "interpretation_up": "Signifies fertility, growth, and the nurturing of relationships or projects.",
+    "interpretation_reversed": "Points to creative blockages, neglect, or imbalance in self-care."
+  },
+  "The Emperor": {
+    "description": "The Emperor symbolizes structure, authority, and stability.",
+    "type_of_card": "Major Arcana",
+    "suit": null,
+    "interpretation_up": "Encourages discipline, leadership, and creating solid foundations.",
+    "interpretation_reversed": "Warns of rigidity, misuse of power, or lack of control."
+  },
+  "The Hierophant": {
+    "description": "The Hierophant represents tradition, spiritual wisdom, and guidance.",
+    "type_of_card": "Major Arcana",
+    "suit": null,
+    "interpretation_up": "Signifies mentorship, spiritual growth, and honoring traditions.",
+    "interpretation_reversed": "Challenges conformity, outdated beliefs, or blind adherence to rules."
+  },
+  "The Lovers": {
+    "description": "The Lovers highlight relationships, harmony, and important choices.",
+    "type_of_card": "Major Arcana",
+    "suit": null,
+    "interpretation_up": "Represents deep connections, alignment, and values-based decisions.",
+    "interpretation_reversed": "Indicates disharmony, indecision, or challenges in relationships."
+  },
+  "The Chariot": {
+    "description": "The Chariot represents determination, willpower, and success through control.",
+    "type_of_card": "Major Arcana",
+    "suit": null,
+    "interpretation_up": "Encourages focus, triumph over obstacles, and purposeful action.",
+    "interpretation_reversed": "Warns of lack of direction, aggression, or loss of control."
+  },
+  "Strength": {
+    "description": "Strength symbolizes inner resilience, courage, and calm control.",
+    "type_of_card": "Major Arcana",
+    "suit": null,
+    "interpretation_up": "Reflects patience, compassion, and mastery over emotions.",
+    "interpretation_reversed": "Highlights self-doubt, avoidance, or imbalance in power dynamics."
+  },
+  "The Hermit": {
+    "description": "The Hermit signifies introspection, solitude, and the search for truth.",
+    "type_of_card": "Major Arcana",
+    "suit": null,
+    "interpretation_up": "Encourages reflection, self-discovery, and seeking deeper meaning.",
+    "interpretation_reversed": "Points to isolation, loneliness, or resistance to self-examination."
+  },
+  "The Wheel of Fortune": {
+    "description": "The Wheel of Fortune represents cycles, change, and the forces of destiny.",
+    "type_of_card": "Major Arcana",
+    "suit": null,
+    "interpretation_up": "Signifies turning points, good fortune, and life's unpredictability.",
+    "interpretation_reversed": "Highlights resistance to change, bad luck, or feeling stuck."
+  },
+  "Justice": {
+    "description": "Justice symbolizes fairness, truth, and the pursuit of balance.",
+    "type_of_card": "Major Arcana",
+    "suit": null,
+    "interpretation_up": "Encourages honesty, accountability, and making fair decisions.",
+    "interpretation_reversed": "Warns of dishonesty, imbalance, or avoiding responsibility."
+  },
+  "The Hanged Man": {
+    "description": "The Hanged Man signifies surrender, perspective, and letting go.",
+    "type_of_card": "Major Arcana",
+    "suit": null,
+    "interpretation_up": "Encourages a new outlook, patience, and acceptance of uncertainty.",
+    "interpretation_reversed": "Indicates stagnation, resistance to change, or needless sacrifice."
+  },
+  "Death": {
+    "description": "Death represents transformation, endings, and the cycle of rebirth.",
+    "type_of_card": "Major Arcana",
+    "suit": null,
+    "interpretation_up": "Signifies major life changes, letting go, and new beginnings.",
+    "interpretation_reversed": "Highlights fear of change, stagnation, or clinging to the past."
+  },
+  "Temperance": {
+    "description": "Temperance embodies balance, harmony, and the blending of opposites.",
+    "type_of_card": "Major Arcana",
+    "suit": null,
+    "interpretation_up": "Encourages moderation, self-control, and finding middle ground.",
+    "interpretation_reversed": "Warns of imbalance, excess, or lack of focus."
+  },
+  "The Devil": {
+    "description": "The Devil represents temptation, materialism, and self-imposed limitations.",
+    "type_of_card": "Major Arcana",
+    "suit": null,
+    "interpretation_up": "Highlights desires, attachments, and confronting personal shadows.",
+    "interpretation_reversed": "Signifies breaking free, reclaiming power, or overcoming addiction."
+  },
+  "The Tower": {
+    "description": "The Tower symbolizes upheaval, sudden change, and revelations.",
+    "type_of_card": "Major Arcana",
+    "suit": null,
+    "interpretation_up": "Encourages embracing transformation and rebuilding from chaos.",
+    "interpretation_reversed": "Warns of prolonged crisis, resistance to change, or avoiding truth."
+  },
+  "The Star": {
+    "description": "The Star represents hope, inspiration, and the renewal of faith.",
+    "type_of_card": "Major Arcana",
+    "suit": null,
+    "interpretation_up": "Signifies healing, optimism, and spiritual guidance.",
+    "interpretation_reversed": "Highlights discouragement, lack of faith, or feeling uninspired."
+  },
+  "The Moon": {
+    "description": "The Moon symbolizes intuition, illusions, and the subconscious.",
+    "type_of_card": "Major Arcana",
+    "suit": null,
+    "interpretation_up": "Encourages exploring dreams, mysteries, and hidden emotions.",
+    "interpretation_reversed": "Warns of deception, confusion, or uncovering hidden truths."
+  },
+  "The Sun": {
+    "description": "The Sun represents positivity, success, and clarity.",
+    "type_of_card": "Major Arcana",
+    "suit": null,
+    "interpretation_up": "Reflects joy, vitality, and the fulfillment of goals.",
+    "interpretation_reversed": "Indicates temporary setbacks, overconfidence, or hidden negativity."
+  },
+  "Judgment": {
+    "description": "Judgment represents awakening, reflection, and making life-changing decisions.",
+    "type_of_card": "Major Arcana",
+    "suit": null,
+    "interpretation_up": "Signifies rebirth, clarity, and aligning with your higher purpose.",
+    "interpretation_reversed": "Highlights self-doubt, ignoring a call to change, or inner conflict."
+  },
+  "The World": {
+    "description": "The World symbolizes completion, fulfillment, and unity.",
+    "type_of_card": "Major Arcana",
+    "suit": null,
+    "interpretation_up": "Reflects wholeness, achievement, and the successful end of a journey.",
+    "interpretation_reversed": "Indicates delays, lack of closure, or incomplete goals."
+  },
+  "Ace of Wands": {
+    "description": "Ace of Wands represents inspiration, creativity, and new opportunities.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Wands",
+    "interpretation_up": "Encourages taking bold action and embracing fresh ideas.",
+    "interpretation_reversed": "Warns of delays, lack of direction, or creative blocks."
+  },
+  "Two of Wands": {
+    "description": "Two of Wands symbolizes planning, foresight, and making long-term choices.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Wands",
+    "interpretation_up": "Highlights progress, exploration, and making strategic plans.",
+    "interpretation_reversed": "Points to fear of the unknown, indecision, or poor planning."
+  },
+  "Three of Wands": {
+    "description": "Three of Wands represents expansion, growth, and looking toward the future.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Wands",
+    "interpretation_up": "Signifies success in progress, opportunities, and setting sights higher.",
+    "interpretation_reversed": "Indicates setbacks, delays, or lack of foresight."
+  },
+  "Four of Wands": {
+    "description": "Four of Wands symbolizes celebration, harmony, and a solid foundation.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Wands",
+    "interpretation_up": "Encourages enjoying milestones, unity, and stable connections.",
+    "interpretation_reversed": "Highlights tension, instability, or postponed celebrations."
+  },
+  "Five of Wands": {
+    "description": "Five of Wands represents conflict, competition, and tension.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Wands",
+    "interpretation_up": "Signifies healthy competition, creative brainstorming, or challenges.",
+    "interpretation_reversed": "Warns of unresolved conflict, avoidance, or lack of collaboration."
+  },
+  "Six of Wands": {
+    "description": "Six of Wands symbolizes victory, recognition, and public success.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Wands",
+    "interpretation_up": "Reflects accomplishments, leadership, and receiving accolades.",
+    "interpretation_reversed": "Warns of egotism, fear of failure, or a need for validation."
+  },
+  "Seven of Wands": {
+    "description": "Seven of Wands signifies standing your ground, courage, and perseverance.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Wands",
+    "interpretation_up": "Encourages defending your beliefs and overcoming obstacles.",
+    "interpretation_reversed": "Points to self-doubt, feeling overwhelmed, or lack of confidence."
+  },
+  "Eight of Wands": {
+    "description": "Eight of Wands represents swift action, movement, and progress.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Wands",
+    "interpretation_up": "Highlights momentum, decisive action, and seizing opportunities.",
+    "interpretation_reversed": "Warns of delays, confusion, or lack of direction."
+  },
+  "Nine of Wands": {
+    "description": "Nine of Wands signifies resilience, determination, and readiness for challenges.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Wands",
+    "interpretation_up": "Encourages persistence, boundaries, and standing strong despite hardships.",
+    "interpretation_reversed": "Points to burnout, paranoia, or a reluctance to move forward."
+  },
+  "Ten of Wands": {
+    "description": "Ten of Wands represents burden, responsibility, and hard work.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Wands",
+    "interpretation_up": "Reflects dedication, effort, and reaching the finish line.",
+    "interpretation_reversed": "Highlights overwhelm, lack of support, or an inability to delegate."
+  },
+  "Page of Wands": {
+    "description": "Page of Wands signifies curiosity, enthusiasm, and new ventures.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Wands",
+    "interpretation_up": "Encourages embracing opportunities and youthful optimism.",
+    "interpretation_reversed": "Warns of immaturity, lack of direction, or self-doubt."
+  },
+  "Knight of Wands": {
+    "description": "Knight of Wands represents adventure, passion, and bold action.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Wands",
+    "interpretation_up": "Highlights ambition, charisma, and pursuing goals with enthusiasm.",
+    "interpretation_reversed": "Indicates impulsiveness, recklessness, or lack of follow-through."
+  },
+  "Queen of Wands": {
+    "description": "Queen of Wands signifies confidence, determination, and vibrancy.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Wands",
+    "interpretation_up": "Encourages embracing creativity, leadership, and passion.",
+    "interpretation_reversed": "Warns of jealousy, insecurity, or being overly controlling."
+  },
+  "King of Wands": {
+    "description": "King of Wands represents vision, leadership, and authority.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Wands",
+    "interpretation_up": "Reflects inspiration, strategic thinking, and entrepreneurial spirit.",
+    "interpretation_reversed": "Indicates arrogance, poor leadership, or lack of direction."
+  },
+  "Ace of Cups": {
+    "description": "Ace of Cups represents emotional abundance, love, and new beginnings.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Cups",
+    "interpretation_up": "Encourages opening your heart, trusting your emotions, and fostering connections.",
+    "interpretation_reversed": "Highlights emotional blockages, missed opportunities, or instability."
+  },
+  "Two of Cups": {
+    "description": "Two of Cups symbolizes harmony, partnership, and mutual respect.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Cups",
+    "interpretation_up": "Encourages connection, balance, and nurturing relationships.",
+    "interpretation_reversed": "Warns of misalignment, tension, or disharmony in partnerships."
+  },
+  "Three of Cups": {
+    "description": "Three of Cups represents celebration, community, and joyful connections.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Cups",
+    "interpretation_up": "Highlights shared happiness, teamwork, and social bonds.",
+    "interpretation_reversed": "Points to overindulgence, isolation, or feeling left out."
+  },
+  "Four of Cups": {
+    "description": "Four of Cups signifies contemplation, apathy, and reassessment.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Cups",
+    "interpretation_up": "Encourages self-reflection and re-evaluating opportunities.",
+    "interpretation_reversed": "Warns of missed chances, disconnection, or lack of awareness."
+  },
+  "Five of Cups": {
+    "description": "Five of Cups symbolizes loss, grief, and focusing on the past.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Cups",
+    "interpretation_up": "Represents sorrow, disappointment, and learning to let go.",
+    "interpretation_reversed": "Signifies healing, acceptance, and finding optimism."
+  },
+  "Six of Cups": {
+    "description": "Six of Cups represents nostalgia, innocence, and past connections.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Cups",
+    "interpretation_up": "Encourages cherishing memories and reconnecting with kindness.",
+    "interpretation_reversed": "Highlights living in the past or unresolved childhood issues."
+  },
+  "Seven of Cups": {
+    "description": "Seven of Cups signifies choices, illusions, and dreams.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Cups",
+    "interpretation_up": "Encourages clarity, assessing options, and avoiding fantasies.",
+    "interpretation_reversed": "Warns of confusion, poor decisions, or overwhelming choices."
+  },
+  "Eight of Cups": {
+    "description": "Eight of Cups symbolizes departure, seeking deeper meaning, and change.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Cups",
+    "interpretation_up": "Encourages moving on, self-discovery, and personal growth.",
+    "interpretation_reversed": "Highlights fear of change, stagnation, or holding on."
+  },
+  "Nine of Cups": {
+    "description": "Nine of Cups represents fulfillment, satisfaction, and wishes coming true.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Cups",
+    "interpretation_up": "Reflects contentment, emotional well-being, and joy.",
+    "interpretation_reversed": "Warns of overindulgence, superficial happiness, or unmet desires."
+  },
+  "Ten of Cups": {
+    "description": "Ten of Cups symbolizes harmony, family, and long-term happiness.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Cups",
+    "interpretation_up": "Represents fulfillment, love, and achieving emotional goals.",
+    "interpretation_reversed": "Indicates discord, broken relationships, or unmet expectations."
+  },
+  "Page of Cups": {
+    "description": "Page of Cups represents creativity, emotional curiosity, and new beginnings.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Cups",
+    "interpretation_up": "Encourages exploring emotions, new ideas, and youthful creativity.",
+    "interpretation_reversed": "Warns of emotional immaturity, escapism, or ignoring intuition."
+  },
+  "Knight of Cups": {
+    "description": "Knight of Cups signifies romance, charm, and following the heart.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Cups",
+    "interpretation_up": "Highlights emotional connections, artistic expression, and pursuit of dreams.",
+    "interpretation_reversed": "Points to unrealistic ideals, moodiness, or unfulfilled promises."
+  },
+  "Queen of Cups": {
+    "description": "Queen of Cups represents intuition, empathy, and emotional depth.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Cups",
+    "interpretation_up": "Encourages compassion, nurturing, and trusting your instincts.",
+    "interpretation_reversed": "Warns of emotional overwhelm, insecurity, or manipulation."
+  },
+  "King of Cups": {
+    "description": "King of Cups signifies emotional balance, wisdom, and leadership.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Cups",
+    "interpretation_up": "Reflects emotional maturity, diplomacy, and generosity.",
+    "interpretation_reversed": "Highlights mood swings, lack of control, or emotional detachment."
+  },
+  "Ace of Pentacles": {
+    "description": "Ace of Pentacles represents new financial opportunities, prosperity, and material beginnings.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Pentacles",
+    "interpretation_up": "Encourages embracing new ventures, stability, and potential wealth.",
+    "interpretation_reversed": "Warns of missed chances, greed, or financial instability."
+  },
+  "Two of Pentacles": {
+    "description": "Two of Pentacles signifies balance, multitasking, and adaptability.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Pentacles",
+    "interpretation_up": "Reflects finding harmony amid responsibilities and priorities.",
+    "interpretation_reversed": "Highlights overwhelm, disorganization, or financial imbalance."
+  },
+  "Three of Pentacles": {
+    "description": "Three of Pentacles represents teamwork, collaboration, and building something meaningful.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Pentacles",
+    "interpretation_up": "Encourages cooperation, skill development, and laying strong foundations.",
+    "interpretation_reversed": "Warns of lack of teamwork, poor planning, or mediocrity."
+  },
+  "Four of Pentacles": {
+    "description": "Four of Pentacles symbolizes control, security, and holding on tightly.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Pentacles",
+    "interpretation_up": "Highlights stability, saving, and protecting resources.",
+    "interpretation_reversed": "Points to greed, materialism, or fear of loss."
+  },
+  "Five of Pentacles": {
+    "description": "Five of Pentacles represents hardship, loss, and financial struggles.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Pentacles",
+    "interpretation_up": "Reflects challenges, scarcity, and the need for resilience.",
+    "interpretation_reversed": "Encourages recovery, seeking support, and overcoming difficulties."
+  },
+  "Six of Pentacles": {
+    "description": "Six of Pentacles symbolizes generosity, giving, and financial balance.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Pentacles",
+    "interpretation_up": "Encourages sharing wealth, charity, and restoring equilibrium.",
+    "interpretation_reversed": "Highlights debt, selfishness, or strings attached to help."
+  },
+  "Seven of Pentacles": {
+    "description": "Seven of Pentacles represents patience, investment, and waiting for results.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Pentacles",
+    "interpretation_up": "Encourages perseverance, evaluation, and long-term growth.",
+    "interpretation_reversed": "Warns of impatience, wasted effort, or lack of progress."
+  },
+  "Eight of Pentacles": {
+    "description": "Eight of Pentacles signifies mastery, diligence, and skill-building.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Pentacles",
+    "interpretation_up": "Highlights hard work, improvement, and dedication to craft.",
+    "interpretation_reversed": "Warns of perfectionism, lack of focus, or repetitive work."
+  },
+  "Nine of Pentacles": {
+    "description": "Nine of Pentacles represents independence, luxury, and self-sufficiency.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Pentacles",
+    "interpretation_up": "Reflects enjoying rewards, financial stability, and personal success.",
+    "interpretation_reversed": "Indicates financial dependence, setbacks, or overindulgence."
+  },
+  "Ten of Pentacles": {
+    "description": "Ten of Pentacles symbolizes wealth, legacy, and family security.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Pentacles",
+    "interpretation_up": "Encourages building lasting foundations, success, and generational wealth.",
+    "interpretation_reversed": "Highlights financial loss, instability, or family disputes."
+  },
+  "Page of Pentacles": {
+    "description": "Page of Pentacles represents ambition, learning, and new financial ventures.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Pentacles",
+    "interpretation_up": "Encourages pursuing knowledge, opportunities, and grounded planning.",
+    "interpretation_reversed": "Warns of lack of focus, procrastination, or missed opportunities."
+  },
+  "Knight of Pentacles": {
+    "description": "Knight of Pentacles signifies reliability, hard work, and practicality.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Pentacles",
+    "interpretation_up": "Highlights dedication, responsibility, and steady progress.",
+    "interpretation_reversed": "Points to stagnation, laziness, or perfectionism holding back results."
+  },
+  "Queen of Pentacles": {
+    "description": "Queen of Pentacles represents nurturing, resourcefulness, and domestic harmony.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Pentacles",
+    "interpretation_up": "Reflects care, practicality, and balanced material and emotional well-being.",
+    "interpretation_reversed": "Indicates imbalance, neglect, or material obsession."
+  },
+  "King of Pentacles": {
+    "description": "King of Pentacles symbolizes prosperity, authority, and abundance.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Pentacles",
+    "interpretation_up": "Encourages leadership, financial success, and wise decision-making.",
+    "interpretation_reversed": "Highlights greed, lack of generosity, or financial mismanagement."
+  },
+  "Ace of Swords": {
+    "description": "Ace of Swords represents clarity, breakthrough ideas, and new mental pursuits.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Swords",
+    "interpretation_up": "Encourages focused thought, honesty, and decisive action.",
+    "interpretation_reversed": "Highlights confusion, miscommunication, or lack of clarity."
+  },
+  "Two of Swords": {
+    "description": "Two of Swords symbolizes a stalemate, difficult choices, and balance.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Swords",
+    "interpretation_up": "Reflects weighing decisions carefully and finding compromise.",
+    "interpretation_reversed": "Warns of indecision, inner conflict, or being stuck."
+  },
+  "Three of Swords": {
+    "description": "Three of Swords represents heartbreak, emotional pain, and betrayal.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Swords",
+    "interpretation_up": "Highlights the need for healing and processing grief.",
+    "interpretation_reversed": "Encourages letting go of pain, forgiveness, and overcoming sorrow."
+  },
+  "Four of Swords": {
+    "description": "Four of Swords signifies rest, introspection, and recovery.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Swords",
+    "interpretation_up": "Encourages taking a break, reflecting, and recharging energy.",
+    "interpretation_reversed": "Warns of burnout, avoidance, or stagnation."
+  },
+  "Five of Swords": {
+    "description": "Five of Swords represents conflict, loss, and hollow victories.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Swords",
+    "interpretation_up": "Highlights difficult battles, ego clashes, and learning from conflicts.",
+    "interpretation_reversed": "Encourages reconciliation, forgiveness, or releasing resentment."
+  },
+  "Six of Swords": {
+    "description": "Six of Swords represents transition, healing, and moving forward.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Swords",
+    "interpretation_up": "Reflects a journey towards calmer waters, recovery, and leaving difficulties behind.",
+    "interpretation_reversed": "Warns of resistance to change, stagnation, or unresolved issues."
+  },
+  "Seven of Swords": {
+    "description": "Seven of Swords signifies strategy, cunning, and sometimes deception.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Swords",
+    "interpretation_up": "Encourages careful planning, tact, and using intellect to overcome obstacles.",
+    "interpretation_reversed": "Indicates dishonesty exposed, miscalculation, or self-deception."
+  },
+  "Eight of Swords": {
+    "description": "Eight of Swords represents feeling trapped, powerless, and restricted.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Swords",
+    "interpretation_up": "Encourages finding clarity and freeing oneself from mental barriers.",
+    "interpretation_reversed": "Reflects liberation, a shift in perspective, or avoidance of reality."
+  },
+  "Nine of Swords": {
+    "description": "Nine of Swords symbolizes anxiety, fear, and overwhelming thoughts.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Swords",
+    "interpretation_up": "Highlights the need to confront fears and seek peace of mind.",
+    "interpretation_reversed": "Encourages healing, clarity, and letting go of worry."
+  },
+  "Ten of Swords": {
+    "description": "Ten of Swords represents painful endings and inevitable conclusions.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Swords",
+    "interpretation_up": "Reflects acceptance, closure, and new beginnings following hardship.",
+    "interpretation_reversed": "Highlights recovery, resilience, or resistance to endings."
+  },
+  "Page of Swords": {
+    "description": "Page of Swords signifies curiosity, vigilance, and a thirst for knowledge.",
+    "type_of_card": "Minor Arcana",
+    "suit": "Swords",
+    "interpretation_up": "Encourages exploring new ideas and intellectual pursuits.",
+    "interpretation_reversed": "Warns of impulsiveness, gossip, or lack of focus."
+  }
+}
